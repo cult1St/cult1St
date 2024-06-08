@@ -1,6 +1,6 @@
 - 👋 Hi, I’m wealth
 - 👀 I’m interested in software development
-- 🌱 I’m currently learning how to become a full stack developer
+- 🌱 I’m currently  a full stack PHP developer
 - 💞️ I’m looking to collaborate on my future projects
 - 📫 How to reach me through my gmail
 - 😄 Pronouns:he
