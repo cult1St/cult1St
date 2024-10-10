@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development
 - 🌱 I’m currently  a full stack PHP developer
 - 💞️ I’m looking to collaborate on my future projects
-- 📫 How to reach me through my gmail
+- 📫 How to reach me through my gmail momoduwealth2@gmail.com
 - 😄 Pronouns:he
 - ⚡ Fun fact: ...
 
